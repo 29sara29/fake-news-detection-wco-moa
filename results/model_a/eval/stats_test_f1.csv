@@ -1,0 +1,4 @@
+comparison,mean diff,wilcoxon p,cliffs delta,effect,holm p,significant (holm < 0.05)
+WCO→MOA vs Random search,0.0006,0.5978,0.0967,negligible,1.0,False
+WCO→MOA vs WCO,-0.0006,0.3409,-0.1356,negligible,1.0,False
+WCO→MOA vs MOA,-0.0006,0.6263,-0.0844,negligible,1.0,False

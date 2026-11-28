@@ -1,0 +1,5 @@
+input,text,pred,p_fake
+new text,"Scientists confirm that drinking bleach cures the flu, doctors stunned",FAKE,0.5199
+new text,The Federal Reserve raised interest rates by a quarter point on Wednesday,REAL,0.2991
+new text,"BREAKING: Famous actor secretly replaced by body double, insiders reveal",FAKE,0.8963
+new text,City council approves new budget for public schools after long debate,REAL,0.0931

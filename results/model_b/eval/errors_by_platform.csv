@@ -1,0 +1,10 @@
+platform,n,accuracy,real_share
+twitter,156,0.564,0.385
+snope,1530,0.623,0.307
+washingtonpost,193,0.679,0.679
+reddit,511,0.769,0.358
+politifact,190,0.774,0.563
+cnn,493,0.84,0.909
+gossipcop,4054,0.842,0.768
+apnews,141,0.865,0.943
+cdc_gov,36,0.972,1.0

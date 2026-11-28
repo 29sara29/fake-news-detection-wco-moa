@@ -1,0 +1,9 @@
+input,text,image,truth,pred,p_fake
+new text,"Scientists confirm that drinking bleach cures the flu, doctors stunned",,,REAL,0.0823
+new text,The Federal Reserve raised interest rates by a quarter point on Wednesday,,,REAL,0.0485
+new text,"BREAKING: Famous actor secretly replaced by body double, insiders reveal",,,REAL,0.1808
+new text,City council approves new budget for public schools after long debate,,,REAL,0.0308
+test item,"A letter was written by F. Scott Fitzgerald in 1920 while the author was quarantined in France during the ""Spanish influenza"" pandemic.",/kaggle/input/notebooks/khitersaranadjet/02a-finefake-cleaning/finefake/Image/snope/6550.png,FAKE,REAL,0.1518
+test item,"When T.R. Saw LincolnLook at the open second-floor window between shutters in this photograph, and you will see two little boys. President Theodore Roosevelt's widow, Edith, identified one of them as ",/kaggle/input/notebooks/khitersaranadjet/02a-finefake-cleaning/finefake/Image/nytimes/602.jpeg,REAL,REAL,0.102
+test item,"Portland Protests: Local Leaders Urging Feds to Leavemike baker This is Mike Baker, a correspondent for The New York Times based in the Northwest. It's 2:00 a.m. right now. I'm in downtown Portland wa",/kaggle/input/notebooks/khitersaranadjet/02a-finefake-cleaning/finefake/Image/nytimes/825.jpeg,REAL,REAL,0.0664
+test item,The U.S. Army welcomed its first openly transgender working dogs.,/kaggle/input/notebooks/khitersaranadjet/02a-finefake-cleaning/finefake/Image/snope/11345.jpeg,FAKE,FAKE,0.8648

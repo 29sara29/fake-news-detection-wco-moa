@@ -1,0 +1,5 @@
+model,dataset,n,accuracy,f1,roc_auc
+XGBoost default,fakenewsnet,4244,0.8183,0.732,0.8285
+XGBoost default,finefake,3060,0.6663,0.6662,0.7215
+XGBoost + WCO→MOA,fakenewsnet,4244,0.8388,0.7557,0.8561
+XGBoost + WCO→MOA,finefake,3060,0.698,0.698,0.7635

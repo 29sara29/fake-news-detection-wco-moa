@@ -1,0 +1,7 @@
+fine_label,n,accuracy
+real,1461,0.693
+text–image inconsistency,243,0.774
+content–knowledge inconsistency,274,0.759
+text-based fake,722,0.789
+image-based fake,298,0.916
+others,62,0.274

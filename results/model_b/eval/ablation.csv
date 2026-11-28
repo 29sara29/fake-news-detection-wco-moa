@@ -1,0 +1,2 @@
+features,n_features,accuracy,precision,recall,f1,roc_auc,cross_entropy,shannon_entropy,train_time_s,test_time_s
+A: text,128,0.7798,0.7662,0.7424,0.7507,0.8424,0.5049,0.4857,6.0936,0.0415
